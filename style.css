@@ -1,0 +1,49 @@
+body {
+  border: 5px solid black;
+  font-style: normal;
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+h3 {
+  font-style: bold;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.dolar {
+  font-size: 25px;
+}
+.free {
+  text-transform: uppercase;
+  font-size: 11px;
+  color: #868686;
+  font-weight: bold;
+}
+a:link {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+button {
+  color: #f7f7f7;
+  background-color: black;
+  font-size: 20px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  color: black;
+  background-color: #f7f7f7;
+}
+.ul {
+  list-style: square;
+}
